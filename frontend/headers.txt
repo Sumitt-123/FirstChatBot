@@ -1,0 +1,9 @@
+HTTP/1.1 500 Internal Server Error
+Access-Control-Allow-Origin: http://localhost:5173
+Vary: Origin
+Content-Type: text/plain
+Date: Sun, 21 Jun 2026 12:43:24 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Transfer-Encoding: chunked
+
